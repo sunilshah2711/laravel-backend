@@ -19,7 +19,6 @@ class BaseController extends Controller
             'success' => true,
             'data'    => $result,
             'message' => $message,
-            'message' => $message,
         ];
 
 
